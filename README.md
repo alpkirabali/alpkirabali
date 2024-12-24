@@ -2,7 +2,7 @@
 I study Computer Science in Germany 🇩🇪
 
 
-Skills: Java, Python, C++, HTML, CSS, JS
+Skills: Java, Python, C, C++
 
 - 🔭 I’m currently working on improving myself in various programming languages. 
 
